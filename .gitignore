@@ -1,0 +1,24 @@
+# 运行产物
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# 下载与状态
+downloads/
+state.json
+state.json.tmp
+aria2_receipts.jsonl
+aria2_receipts.jsonl.old
+
+# 浏览器会话（含 Cookie）
+.temp_browser_profile/
+
+# 编辑器与系统
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
